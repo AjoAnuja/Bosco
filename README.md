@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<img src="media/Bot.jpg" alt="「♫Åʲᵒ玄šℯཞ♬」" width="170" />
+<img src="media/IMG-20220103-WA0055.jpg" alt="「♫Åʲᵒ玄šℯཞ♬」" width="170" />
 
 # Bosco Bot
 <p align="center">
